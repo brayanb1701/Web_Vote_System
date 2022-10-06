@@ -1,0 +1,37 @@
+*{
+	color: #000;
+	font-family: arial;
+}
+body{
+	position: relative;
+	top: 10px;
+	background-color:#7fb0b9;
+}
+.titulo{
+	font-size: 40px;
+	text-shadow:#85b8c0 1px 2px 15px;
+
+}
+.derechos{
+	font-size: 9px;
+	vertical-align:bottom;
+}
+.borde_tabla_1{
+	border-style: dotted;
+	border-color: #c6c6c6;
+	border-width: 3px;
+	background-color:#FFFFFF;
+	}
+	
+#user{
+text-align: center;
+border-color: #ffffff;
+border-width: 0px;
+border-style: solid;
+}
+
+
+#titleadmin{
+font-size: 80px;
+	text-shadow:#85b8c0 1px 2px 15px;
+}
